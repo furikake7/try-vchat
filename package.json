@@ -1,0 +1,21 @@
+{
+  "name": "try-chat",
+  "version": "1.0.0",
+  "description": "\"trial\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "tryal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:furikake7/try-vchat.git"
+  },
+  "keywords": [
+    "furikake7"
+  ],
+  "author": "D.IIJIMA",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.2.0"
+  }
+}
